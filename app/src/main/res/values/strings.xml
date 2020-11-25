@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task Application</string>
+    <string name="enter_your_year_of_birth">Enter your year of birth</string>
+    <string name="enter_your_month_of_birth">Enter your month of birth</string>
+    <string name="show">Show My Age</string>
+    <string name="your_age_is">your Age is :</string>
+    <string name="month">Months</string>
+    <string name="year">Years</string>
+    <string name="and">and</string>
+    <string name="invalid">invalid put some data</string>
+    <string name="invalidyearormonth">The year or the month is invalid input</string>
+</resources>

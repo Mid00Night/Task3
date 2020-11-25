@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">التاسك</string>
+    <string name="enter_your_year_of_birth">ادخل سنه الميلاد</string>
+    <string name="enter_your_month_of_birth">ادخل شهر الميلاد</string>
+    <string name="show">اظهر سني</string>
+    <string name="your_age_is">سنك هو :</string>
+    <string name="month">شهر</string>
+    <string name="year">عام</string>
+    <string name="and">و</string>
+    <string name="invalid">من فضلك ادخل بياناتك</string>
+    <string name="invalidyearormonth">السنه او الشهر ادخال خاطئ</string>
+</resources>
